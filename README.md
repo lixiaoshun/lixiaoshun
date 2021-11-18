@@ -1,11 +1,11 @@
-## Hi there, I’m [LiXiao](https://bingoYB.github.io/) 👋
+## Hi there, I’m [lixiaoshun](https://github.com/lixiaoshun/) 👋
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bingo.readme">
 </p>
 
 <p align="center">
-  <img src="https://github.com/bingoYB/bingoYB/blob/main/hello-world.gif" width="30%">
+  <img src="https://github.com/lixiaoshun/lixiaoshun/blob/master/hello-world.gif" width="30%">
 </p>
 
 我的网址导航 [导航](https://lixiaoshun.github.io/web-nav/#/)
@@ -48,5 +48,5 @@
 </p>
 
 <!-- <p>
-  <img src="https://github.com/bingoYB/bingoYB/blob/main/lurking-cat.gif">
+  <img src="https://github.com/lixiaoshun/lixiaoshun/blob/master/lurking-cat.gif">
 </p> -->
