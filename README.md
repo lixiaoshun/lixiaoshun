@@ -25,7 +25,6 @@
 [![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)](https://webpack.docschina.org/)
 
 
-- 📫 Reach me: lisaxiaoshun@foxmail.com
 - 😄 Pronouns: lixiaoshun
 - ⚡ Fun fact: Music, Movie, Reading, Eating.
 
