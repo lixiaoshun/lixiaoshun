@@ -5,6 +5,7 @@
 </p>
 
 我的网址导航 [导航](https://lixiaoshun.github.io/web-nav/#/)
+我的博客 [博客](https://lixiaoshun.github.io/blog/dist/)
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
